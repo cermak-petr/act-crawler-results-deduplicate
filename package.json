@@ -1,0 +1,16 @@
+{ 
+  "name": "crawler-results-deduplicate",
+  "version": "1.0.0",
+  "description": "Apify act for deduplication of crawler execution results",
+  "main": "main.js",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cermak-petr/crawler-results-deduplicate"
+  },
+  "dependencies": {
+    "apify": "latest",
+    "bluebird": "latest",
+    "underscore": "latest"
+  }
+}
